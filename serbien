@@ -1,0 +1,63 @@
+
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <title>Geschichte Serbiens (1800-2000+)</title>
+  <style>
+    body { font-family: Arial, sans-serif; line-height: 1.6; margin: 20px; }
+    header { text-align: center; }
+    img { max-width: 100%; height: auto; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Die Geschichte Serbiens in den letzten 200 Jahren</h1>
+  </header>
+  <section>
+    <h2>19. Jahrhundert</h2>
+    <p>Zu Beginn des 19. Jahrhunderts befand sich Serbien noch unter osmanischer Herrschaft. 
+    Der Erste Serbische Aufstand von 1804, angeführt von Karađorđe Petrović, war ein
+    bedeutender Schritt in Richtung Autonomie. Nach einer kurzen Phase der Unabhängigkeit
+    folgte der Zweite Serbische Aufstand (1815), der schließlich zu einem autonomen Fürstentum
+    unter der Oberhoheit des Osmanischen Reiches führte.</p>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Oslobodjenje_Beograda_1806.jpg/640px-Oslobodjenje_Beograda_1806.jpg" 
+         alt="Darstellung des Ersten Serbischen Aufstands">
+    <p>In der zweiten Hälfte des Jahrhunderts kämpfte Serbien in mehreren Balkankriegen
+    gegen das Osmanische Reich und konnte seine staatliche Souveränität ausbauen.
+    Die Berliner Konferenz von 1878 erkannte Serbien als unabhängigen Staat an.</p>
+  </section>
+  <section>
+    <h2>Frühes 20. Jahrhundert</h2>
+    <p>Nach der Unabhängigkeit konzentrierte sich Serbien auf die Konsolidierung seiner
+    staatlichen Strukturen. 1912/13 beteiligte sich das Land an den Balkankriegen
+    und vergrößerte dadurch sein Territorium. Der Mord an Erzherzog Franz Ferdinand
+    1914 in Sarajevo, verübt von einem bosnisch-serbischen Nationalisten, führte zum
+    Ausbruch des Ersten Weltkriegs.</p>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Ponu%C4%91enje_Correspondence_1915.jpg/640px-Ponudjenje_Correspondence_1915.jpg" 
+         alt="Serbische Soldaten im Ersten Weltkrieg">
+    <p>Nach dem Krieg ging Serbien im neu gegründeten Königreich der Serben, Kroaten und
+    Slowenen auf, das später in Königreich Jugoslawien umbenannt wurde.</p>
+  </section>
+  <section>
+    <h2>Nach dem Zweiten Weltkrieg</h2>
+    <p>Nach dem Zweiten Weltkrieg entstand unter Josip Broz Tito die Sozialistische
+    Föderative Republik Jugoslawien (SFRJ). Serbien war eine von sechs Teilrepubliken.
+    In den 1980er-Jahren kam es zu wachsenden Spannungen zwischen den Republiken, was
+    schließlich zum Zerfall Jugoslawiens führte.</p>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Tito_Brod_Galeb_%281.jpg/640px-Tito_Brod_Galeb_%281.jpg" 
+         alt="Josip Broz Tito">
+  </section>
+  <section>
+    <h2>1990er-Jahre und jüngere Geschichte</h2>
+    <p>Die 1990er-Jahre waren geprägt von den Jugoslawienkriegen, internationalen Sanktionen
+    und wirtschaftlichen Schwierigkeiten. Nach dem Sturz von Slobodan Milošević im Jahr
+    2000 begann ein politischer und wirtschaftlicher Übergang. 2006 trennte sich Montenegro
+    von Serbien, womit die Republik Serbien ihre heutige Form erhielt.</p>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Belgrade_at_night_%2825391605517%29.jpg/640px-Belgrade_at_night_%2825391605517%29.jpg" 
+         alt="Belgrad bei Nacht">
+  </section>
+  <footer>
+    <p>Quellen: <a href="https://de.wikipedia.org/wiki/Serbien">Wikipedia: Serbien</a></p>
+  </footer>
+</body>
+</html>
